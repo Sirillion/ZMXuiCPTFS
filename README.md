@@ -1,7 +1,7 @@
 # ZMXuiCPTFS - A19
 
 <p align="center">
-  <img src="https://staticdelivery.nexusmods.com/mods/1059/images/22/22-1601026677-2067103566.jpeg" width="700" title="ZMXuiCPBBM - 63 Slot Backpack - A19">
+  <img src="https://staticdelivery.nexusmods.com/mods/1059/images/22/22-1601026677-2067103566.jpeg" width="700" title="ZMXuiCPTFS - A third forge slot - A19">
 </p>
 
 **Description:**
