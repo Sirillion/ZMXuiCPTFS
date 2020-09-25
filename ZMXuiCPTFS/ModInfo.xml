@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<xml>
+	<ModInfo>
+		<Name value="ZMXuiCPTFS" />
+		<Description value="An extension modlet for SMXui that adds a third forge slot." />
+		<Author value="Sirillion" />
+		<Version value="19.1.Release1" />
+		<Website value="http://www.nexusmods.com/7daystodie/mods/22/?" />
+	</ModInfo>
+</xml>

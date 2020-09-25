@@ -1,0 +1,8 @@
+<ZMXuiCPTFS name="windows.xml">
+
+<!--	// SMX // Third Forge Slot Conversion -->
+
+		<set xpath="/windows/window[@name='windowForgeInput']/panel/panel/rect/grid/@cols">3</set>
+		<set xpath="/windows/window[@name='windowForgeInput']/panel/panel/rect/grid/@pos">80,-29</set>
+
+</ZMXuiCPTFS>
