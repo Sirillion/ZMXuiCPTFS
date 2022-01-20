@@ -1,7 +1,7 @@
 # ZMXhudCPTFS - THE THIRD FORGE SLOT EXTENSION MODLET
 > Verified to work with: A20.0B238 & A20.1B5
 
-> Dependencies: SMXui.
+> Dependencies: [SMXui](https://github.com/Sirillion/SMXui).
 
 > Compatibility: Will probably work with most mods that doesn't modify the same windows in the XUI files.
 
