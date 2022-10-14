@@ -1,4 +1,4 @@
-# ZMXhudCPTFS - THE THIRD FORGE SLOT EXTENSION MODLET
+# ZMXuiCPTFS - THE THIRD FORGE SLOT EXTENSION MODLET
 > Verified to work with: A20.5B2
 
 > Dependencies: [SMXui](https://github.com/Sirillion/SMXui).
@@ -10,10 +10,10 @@
 
 With the release of A20 SMXhud has now evolved into the world of Harmony. This means that it does now mod deeper than ever before and that opens the door for more and better features. On the flip side this means it is no longer EAC friendly, so turn EAC off.
 
-ZMXhudCPTFS adds the third forge slot to the vanilla forge for SMXui.
+ZMXuiCPTFS adds the third forge slot to the vanilla forge for SMXui.
 
 <p align="center">
-  <img src="https://7dtd-community.s3.us-east-2.amazonaws.com/monthly_2022_01/A20.0_2022-01-16_23-35-03.jpg.091f467cd630f28b8408b22ec4b74131.jpg" width="1080" title="ZMXhudCPTFS - The Third Forge Slot - A20">
+  <img src="https://7dtd-community.s3.us-east-2.amazonaws.com/monthly_2022_01/A20.0_2022-01-16_23-35-03.jpg.091f467cd630f28b8408b22ec4b74131.jpg" width="1080" title="ZMXuiCPTFS - The Third Forge Slot - A20">
 </p>
 
 
