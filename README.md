@@ -1,5 +1,5 @@
 # ZMXuiCPTFS - THE THIRD FORGE SLOT EXTENSION MODLET
-> Verified to work with: A20.5B2
+> Verified to work with: A20.6B9
 
 > Dependencies: [SMXui](https://github.com/Sirillion/SMXui).
 
